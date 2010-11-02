@@ -1,14 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src\Frontends\Console\Program.cs" ctype="Workbench">
-    <Files>
-      <File FileName="src\Frontends\Console\Program.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench ctype="Workbench">
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Frontends" expanded="True">
-            <Node name="Telegraph.Frontends.Console" expanded="True" selected="True" />
+          <Node name="Core" expanded="True" />
+          <Node name="Frontends" expanded="True" />
+          <Node name="Libraries" expanded="True" />
+          <Node name="Plugins" expanded="True">
+            <Node name="Telegraph.Plugins.Dumb" selected="True" />
           </Node>
         </State>
       </Pad>
