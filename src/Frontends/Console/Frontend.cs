@@ -12,7 +12,7 @@ namespace Telegraph.Frontends.Console
         public void OnNewMessage(Telegraph.Message msg)
         {
             System.Console.WriteLine(msg.Contents);
-            System.Console.WriteLine(String.Format("sent by {0} at {1:ddd, MMM dd, yyyy - hh:mm}", msg.User.Name, msg.SentDate));
+            System.Console.WriteLine(String.Format("sent by {0} at {1:ddd, MMM dd, yyyy - hh:mm:ss}", msg.User.Name, msg.SentDate));
         }
     }
 }

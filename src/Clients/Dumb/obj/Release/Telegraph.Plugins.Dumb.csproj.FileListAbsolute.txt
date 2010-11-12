@@ -1,0 +1,5 @@
+E:\Luis García\Documents\Visual Studio 2010\Projects\bin\Release\Telegraph.Plugins.Dumb.dll
+E:\Luis García\Documents\Visual Studio 2010\Projects\bin\Release\Telegraph.Plugins.Dumb.pdb
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Plugins\Dumb\obj\Release\ResolveAssemblyReference.cache
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Plugins\Dumb\obj\Release\Telegraph.Plugins.Dumb.dll
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Plugins\Dumb\obj\Release\Telegraph.Plugins.Dumb.pdb

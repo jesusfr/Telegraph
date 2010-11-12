@@ -7,7 +7,7 @@ namespace Telegraph
 {
     public class UserAccount
     {
-        public UserAccount(string name, string password, IPlugin plugin)
+        public UserAccount(string name, string password, Client plugin)
         {
             _name = name;
             _plugin = plugin;
@@ -19,7 +19,7 @@ namespace Telegraph
 
         public string Password { get; set; }
 
-        IPlugin _plugin;
-        public IPlugin Plugin { get { return _plugin; } }
+        Client _plugin;
+        public Client Plugin { get { return _plugin; } }
     }
 }

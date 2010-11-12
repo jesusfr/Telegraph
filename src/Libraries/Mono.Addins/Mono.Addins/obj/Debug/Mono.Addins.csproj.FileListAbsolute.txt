@@ -1,0 +1,5 @@
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Debug\Mono.Addins.dll
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Debug\Mono.Addins.pdb
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Libraries\Mono.Addins\Mono.Addins\obj\Debug\ResolveAssemblyReference.cache
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Libraries\Mono.Addins\Mono.Addins\obj\Debug\Mono.Addins.dll
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Libraries\Mono.Addins\Mono.Addins\obj\Debug\Mono.Addins.pdb

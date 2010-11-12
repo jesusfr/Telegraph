@@ -1,0 +1,5 @@
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Debug\Telegraph.Core.dll
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Debug\Telegraph.Core.pdb
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Core\Telegraph.Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Core\Telegraph.Core\obj\Debug\Telegraph.Core.dll
+E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Core\Telegraph.Core\obj\Debug\Telegraph.Core.pdb

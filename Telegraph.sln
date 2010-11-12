@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual C# Express 2010
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B0D45CE2-036A-4DA1-BD3E-FDB3F7788F39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegraph.Core", "src\Core\Telegraph.Core\Telegraph.Core.csproj", "{B4BF545F-5005-417A-91C3-F1597558E536}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{FD89C194-0F45-43CC-B2BA-54107BF58969}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{FD89C194-0F45-43CC-B2BA-54107BF58969}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegraph.Plugins.Dumb", "src\Plugins\Dumb\Telegraph.Plugins.Dumb.csproj", "{676F1C9D-2C7F-401E-B8C8-6C12B82E70E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telegraph.Clients.Dumb", "src\Clients\Dumb\Telegraph.Clients.Dumb.csproj", "{676F1C9D-2C7F-401E-B8C8-6C12B82E70E0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{2E29DC68-A47B-4E40-AE4C-ABB8577DF4FB}"
 EndProject
@@ -27,6 +27,18 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|x86.Build.0 = Debug|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|x86.ActiveCfg = Release|Any CPU
+		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|x86.Build.0 = Release|Any CPU
 		{676F1C9D-2C7F-401E-B8C8-6C12B82E70E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{676F1C9D-2C7F-401E-B8C8-6C12B82E70E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{676F1C9D-2C7F-401E-B8C8-6C12B82E70E0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
@@ -63,18 +75,9 @@ Global
 		{AE6382B1-12A2-4D8A-A4E5-9CD3B61F7BD4}.Release|Mixed Platforms.Build.0 = Release|x86
 		{AE6382B1-12A2-4D8A-A4E5-9CD3B61F7BD4}.Release|x86.ActiveCfg = Release|x86
 		{AE6382B1-12A2-4D8A-A4E5-9CD3B61F7BD4}.Release|x86.Build.0 = Release|x86
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Debug|x86.Build.0 = Debug|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|x86.ActiveCfg = Release|Any CPU
-		{B4BF545F-5005-417A-91C3-F1597558E536}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B4BF545F-5005-417A-91C3-F1597558E536} = {B0D45CE2-036A-4DA1-BD3E-FDB3F7788F39}
@@ -85,8 +88,5 @@ Global
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = src\Frontends\Console\Telegraph.Frontends.Console.csproj
 		outputpath = bin
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
