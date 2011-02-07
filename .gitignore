@@ -1,7 +1,9 @@
 #folders
 bin
+obj
 
 #files
 *.~
 *.dll
-*.pib
+*.pdb
+
