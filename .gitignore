@@ -1,3 +1,7 @@
-#comment – this is ignored
-bin/*    # ignore all files in the bin/ directory
-./bin   # ignore bin directory
+#folders
+bin
+
+#files
+*.~
+*.dll
+*.pib
