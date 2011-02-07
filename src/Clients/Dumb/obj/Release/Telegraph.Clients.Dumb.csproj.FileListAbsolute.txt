@@ -1,7 +1,0 @@
-E:\Luis García\Documents\Visual Studio 2010\Projects\bin\Release\Telegraph.Clients.Dumb.dll
-E:\Luis García\Documents\Visual Studio 2010\Projects\bin\Release\Telegraph.Clients.Dumb.pdb
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Clients\Dumb\obj\Release\ResolveAssemblyReference.cache
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Clients\Dumb\obj\Release\Telegraph.Clients.Dumb.dll
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Clients\Dumb\obj\Release\Telegraph.Clients.Dumb.pdb
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Release\Telegraph.Clients.Dumb.dll
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Release\Telegraph.Clients.Dumb.pdb

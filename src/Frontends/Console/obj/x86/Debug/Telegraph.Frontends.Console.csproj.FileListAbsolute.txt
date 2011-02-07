@@ -1,5 +1,0 @@
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Debug\Telegraph.Frontends.Console.exe
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Debug\Telegraph.Frontends.Console.pdb
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Frontends\Console\obj\x86\Debug\ResolveAssemblyReference.cache
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Frontends\Console\obj\x86\Debug\Telegraph.Frontends.Console.exe
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Frontends\Console\obj\x86\Debug\Telegraph.Frontends.Console.pdb

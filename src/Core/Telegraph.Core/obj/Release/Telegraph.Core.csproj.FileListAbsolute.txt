@@ -1,7 +1,0 @@
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Telegraph.Core.dll
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Telegraph.Core.pdb
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Core\Telegraph.Core\obj\Release\ResolveAssemblyReference.cache
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Core\Telegraph.Core\obj\Release\Telegraph.Core.dll
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\src\Core\Telegraph.Core\obj\Release\Telegraph.Core.pdb
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Release\Telegraph.Core.dll
-E:\Luis García\Documents\Visual Studio 2010\Projects\Telegraph\bin\Release\Telegraph.Core.pdb
